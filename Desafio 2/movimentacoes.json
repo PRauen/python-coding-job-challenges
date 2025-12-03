@@ -1,0 +1,34 @@
+[
+    {
+        "tipo": "Produto Novo",
+        "descricaoProduto": {
+            "codigoProduto": 109,
+            "descricaoProduto": "Caneta Preta",
+            "estoque": 100
+        },
+        "estoque": 100,
+        "data": "03/12/2025 12:34:43"
+    },
+    {
+        "tipo": "Produto Removido",
+        "descricaoProduto": "Caneta Preta",
+        "codigoProduto": 109,
+        "data": "03/12/2025 12:34:43"
+    },
+    {
+        "tipo": "Produto Novo",
+        "descricaoProduto": {
+            "codigoProduto": 109,
+            "descricaoProduto": "Caneta Preta",
+            "estoque": 2
+        },
+        "estoque": 2,
+        "data": "03/12/2025 12:37:32"
+    },
+    {
+        "tipo": "Produto Removido",
+        "descricaoProduto": "Caneta Preta",
+        "codigoProduto": 109,
+        "data": "03/12/2025 12:37:32"
+    }
+]
