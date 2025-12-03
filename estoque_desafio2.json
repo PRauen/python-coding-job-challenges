@@ -1,0 +1,44 @@
+{
+    "estoque": [
+        {
+            "codigoProduto": 101,
+            "descricaoProduto": "Caneta Azul",
+            "estoque": 190
+        },
+        {
+            "codigoProduto": 102,
+            "descricaoProduto": "Caderno Universitário",
+            "estoque": 75
+        },
+        {
+            "codigoProduto": 103,
+            "descricaoProduto": "Borracha Branca",
+            "estoque": 230
+        },
+        {
+            "codigoProduto": 104,
+            "descricaoProduto": "Lápis Preto HB",
+            "estoque": 320
+        },
+        {
+            "codigoProduto": 105,
+            "descricaoProduto": "Marcador de Texto Amarelo",
+            "estoque": 90
+        },
+        {
+            "codigoProduto": 106,
+            "descricaoProduto": "Caneta Preta",
+            "estoque": 225
+        },
+        {
+            "codigoProduto": 107,
+            "descricaoProduto": "Caneta Vermelha",
+            "estoque": 200
+        },
+        {
+            "codigoProduto": 108,
+            "descricaoProduto": "Papel Sufite",
+            "estoque": 500
+        }
+    ]
+}
